@@ -5,7 +5,7 @@ import (
     "fmt"
     "net/http"
     "os"
-    "github.com/gocf/julienschmidt/httprouter"
+    "github.com/julienschmidt/httprouter"
     "github.com/gocf/saluru/gorest-cf"
   )
 
